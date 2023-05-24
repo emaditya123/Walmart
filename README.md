@@ -34,16 +34,27 @@ This will help use generate some new columns from existing ones.
 2.In which city is each branch?
 # Product
 1.How many unique product lines does the data have?
+
 2.What is the most common payment method?
+
 3.What is the most selling product line?
+
 4.What is the total revenue by month?
+
 5.What month had the largest COGS?
+
 6.What product line had the largest revenue?
+
 7.What is the city with the largest revenue?
+
 8.What product line had the largest VAT?
+
 9.Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
+
 10.Which branch sold more products than average product sold?
+
 11.What is the most common product line by gender?
+
 12.What is the average rating of each product line?
 # Sales
 1.Number of sales made in each time of the day per weekday
